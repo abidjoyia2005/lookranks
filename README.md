@@ -1,16 +1,39 @@
-# flutter_application_1
+# LookRanks
 
-A new Flutter project.
+**LookRanks** is a social media Flutter app where users can view people’s pictures and rate them. It combines a clean UI, real-time feedback, and secure user authentication to provide an engaging social experience.
+
+---
+
+## Features
+
+- User authentication (Sign up, Login, Logout)  
+- View user profiles and photos  
+- Rate photos and see rankings  
+- Follow/unfollow users  
+- Real-time updates for user interactions  
+- Responsive UI for both Android and iOS  
+- Built with **Flutter** and integrated with **Firebase** backend  
+
+---
+
+## Screenshots
+
+*(Add screenshots here using `![alt text](link)` if you want)*  
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you set up the project on your local machine for development and testing.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Install Flutter](https://docs.flutter.dev/get-started/install)  
+- Android Studio or VS Code with Flutter plugin  
+- Firebase account (for authentication and database)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/abidjoyia765/LookRanks.git
