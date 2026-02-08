@@ -16,9 +16,6 @@
 
 ---
 
-## Screenshots
-
-*(Add screenshots here using `![alt text](link)` if you want)*  
 
 ---
 
