@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "873003489459",
+    "project_id": "lookranks-5545c",
+    "storage_bucket": "lookranks-5545c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873003489459:android:f0707cfebcfc3523c6b8c6",
+        "android_client_info": {
+          "package_name": "com.abid.lookranks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873003489459-k11fl6f6gi7cpbges7cljih9i6clgiem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abid.lookranks",
+            "certificate_hash": "77fbb51b985f30d5976b3c11c6b9770b34e988c3"
+          }
+        },
+        {
+          "client_id": "873003489459-s9bgvfl5ejg4fdeboc2rv5vl2gn1h9an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abid.lookranks",
+            "certificate_hash": "132edb5f379f9b0c14d8172155de888a4971bde8"
+          }
+        },
+        {
+          "client_id": "873003489459-uhl0pg6gbh62d9kcafng704k6od8co4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abid.lookranks",
+            "certificate_hash": "b91c8042edec5f036c9e9bd663257eecb562f9e0"
+          }
+        },
+        {
+          "client_id": "873003489459-g53bk9k5bg565fh6becgq7j7cvpkgnh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOwOkN43a7J2LQmrb-0jJb2iZvnpNhX3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873003489459-e2gafsgmq7htiu264crr7t30og33vu57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873003489459-n2d727bncker0iqj8njougcu0tm0mcct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lookranks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

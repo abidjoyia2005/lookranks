@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1128630231635307</string>
+    <string name="fb_login_protocol_scheme">fb1128630231635307</string>
+    <string name="facebook_client_token">8e1f5d6a156ab52f67fcef5e2a01fce1</string>
+    <string name="app_name">"AbidJoyia"</string>
+
+</resources>
